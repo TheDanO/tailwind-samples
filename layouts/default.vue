@@ -1,6 +1,6 @@
 <template>
   <div>
-    <TheToolbar></TheToolbar>
+    <TheNavbar></TheNavbar>
     <div class="bg-white pt-20">
       <nuxt />
     </div>
@@ -8,11 +8,11 @@
 </template>
 
 <script>
-import TheToolbar from '~/components/TheToolbar.vue'
+import TheNavbar from '~/components/TheNavbar.vue'
 
 export default {
   components: {
-    TheToolbar
+    TheNavbar
   }
 }
 </script>

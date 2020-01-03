@@ -41,6 +41,15 @@
           </nuxt-link>
         </div>
       </div>
+      <div>
+        <a
+          class="block text-white rounded-sm hover:bg-gray-100 hover:text-teal-600"
+          href="https://github.com/TheDanO/tailwind-samples"
+          target="_blank"
+        >
+          <i class="lab la-github text-3xl"></i>
+        </a>
+      </div>
     </div>
   </nav>
 </template>
