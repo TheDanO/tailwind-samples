@@ -1,7 +1,7 @@
 <template>
   <div>
     <TheToolbar></TheToolbar>
-    <div class="container bg-white mt-20">
+    <div class="bg-white pt-20">
       <nuxt />
     </div>
   </div>
