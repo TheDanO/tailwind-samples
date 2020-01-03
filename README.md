@@ -1,4 +1,6 @@
-# tailwind-samples
+# tailwind-samples [![Build Status](https://travis-ci.com/TheDanO/tailwind-samples.svg?branch=master)](https://travis-ci.com/TheDanO/tailwind-samples)
+
+> [Demo](https://thedano.github.io/tailwind-samples/)
 
 > Project for storing tailwind files
 
